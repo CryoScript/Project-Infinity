@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/Infinity7915/UTD-Macro/main/Resources/ProjectInfinityBanner.jpg)
+![Banner]([https://raw.githubusercontent.com/Infinity7915/UTD-Macro/main/Resources/ProjectInfinityBanner.jpg](https://github.com/CryoScript/Project-Infinity/blob/main/Resources/Aesthetic/ProjectInfinityBanner.jpg))
 
 </div>
 
